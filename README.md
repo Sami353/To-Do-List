@@ -21,4 +21,7 @@ Builds the app for production to the `build` folder.\
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+### Snapshot of this React.js Project
 
+![To-Do List Snapshot](Img1.png)
+![To-Do List Snapshot](Img2.png)
